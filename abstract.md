@@ -6,9 +6,10 @@
 
 ### **Team Members**:
 
-- o23zhang
-- l237zhan
-- s4jeong
-- umustafa
+- Owen Zhang (o23zhang)
+- Lily Zhang (l237zhan)
+- Sally Jeong (s4jeong)
+- Umar Mustafa (umustafa)
+- Elsie Li (e99li)
 
 ## **Abstract**
